@@ -36,7 +36,6 @@
 
 ## VLAN Configuration
 
-|## VLAN Configuration
 
 | VLAN Name                                | Needed Size | VLAN No | Allocated Size | Subnet Mask       | Network Address | Assignable Range              | Broadcast ID     |
 |------------------------------------------|-------------|---------|----------------|--------------------|-----------------|--------------------------------|------------------|
